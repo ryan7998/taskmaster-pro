@@ -1,6 +1,6 @@
 # taskmaster-pro
 ## Screenshot:
-![](assets/img/Taskmaster-Pro-homepage)
+![](assets/img/Taskmaster-Pro-homepage.png)
 
 ### Technologies used: jQuery, bootstrap
 
